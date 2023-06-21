@@ -18,12 +18,12 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   fonts:
-   - family: IconsaxBold
-     fonts:
-      - asset: fonts/IconsaxBold.ttf
-   - family: IconsaxOutline
-     fonts:
-      - asset: fonts/IconsaxOutline.ttf
-   - family: IconsaxBulk
-     fonts:
-      - asset: fonts/IconsaxBulk.ttf
+    - family: IconsaxBold
+      fonts:
+        - asset: fonts/IconsaxBold.ttf
+    - family: IconsaxOutline
+      fonts:
+        - asset: fonts/IconsaxOutline.ttf
+    - family: IconsaxBulk
+      fonts:
+        - asset: fonts/IconsaxBulk.ttf
